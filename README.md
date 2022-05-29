@@ -4,14 +4,14 @@ A easy and straightforward tool for assigning materials to an object in C# for U
 ![image](https://user-images.githubusercontent.com/59441459/170861023-a555cc16-ee3f-431e-aad8-93ac35317b48.png)
 
 
-### Opening the window:
+## Opening the window:
 1. At top, open the strip menu item "Widnow"
 2. Hover mouse "Uotsab Windows"
 3. Lastly select "Material Assigner" window
 Now if things are alright, You would see the material assigner window for Unity
 
 
-### Example: assign green:
+## Example: assign green:
 
 Make sure "Material Assigner" window is open. If not, so follow the avove aprragraph to open it.
 
@@ -32,9 +32,9 @@ Make sure "Material Assigner" window is open. If not, so follow the avove aprrag
 
 
 
-### Structure:
+## Structure:
 
-![image](https://user-images.githubusercontent.com/59441459/170861006-dcf09248-6fd1-453f-b7d9-70b463c25f34.png)
+The project is kept as ssimple as possible for any programmers to understand. But here's yet a quick explaination of the Script:
 
 The asset contains only and only one script file that does the job. It is "Material-Assigner.cs".
 
@@ -102,3 +102,5 @@ Creates Button to assign objects in "objects" List<GameObject>() variable
         GUILayout.Label("Selected material :  " + materialToAssign.name);
   ```
   Finally creates a button to assign "materialToAssign" material to all the objects in "objects" List<> variable.
+
+![image](https://user-images.githubusercontent.com/59441459/170861006-dcf09248-6fd1-453f-b7d9-70b463c25f34.png)
