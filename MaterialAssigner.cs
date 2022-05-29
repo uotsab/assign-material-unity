@@ -48,6 +48,7 @@ public class MaterialAssigner : EditorWindow
                 }
                 else
                 {
+                    objects.Clear();
                     foreach(GameObject obj in Selection.objects)
                     {
                         objects.Add(obj);
@@ -62,3 +63,4 @@ public class MaterialAssigner : EditorWindow
         GUILayout.Label("Selected material :  " + materialToAssign.name);
     }
 }
+
