@@ -23,7 +23,7 @@ Make sure "Material Assigner" window is open. If not, so follow the avove aprrag
 
 ![image](https://user-images.githubusercontent.com/59441459/170860477-3f1bee4e-b3e7-469f-9af5-ef48e3d6b5ed.png)
 
-#### 3. Select your GameObject (Or Prefabs too!)
+#### 3. Select your GameObject (Or Prefabs too!). Press "Objects to assign on"
 
 ![image](https://user-images.githubusercontent.com/59441459/170860610-e4a003aa-546d-4db5-80a3-3e03bb4124b4.png)
 
