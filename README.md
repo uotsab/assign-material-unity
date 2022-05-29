@@ -45,6 +45,8 @@ This is how you'll open material assigner inside unity:
 1. At top, open the Unity's strip menu item "Window"
 2. Hover mouse "Uotsab Windows"
 3. Lastly select "Material Assigner" window
+![image](https://user-images.githubusercontent.com/59441459/170862957-13124578-eda1-4e15-b8e0-d5ac4acbe507.png)
+
 Now if things are alright, You would see the material assigner window for Unity
 
 
